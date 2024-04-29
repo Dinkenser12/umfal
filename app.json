@@ -1,9 +1,9 @@
 {
-  "name": "Deploy",
+  "name": "NEZUKO-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Afx-Abu/Abu-MD",
-  "logo": "https://i.imgur.com/o3WP9EK.jpeg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "repository": "https://github.com/godzenitsu/NEZUKO-MD",
+  "logo": "https://i.imgur.com/jNy5AIn.jpeg",
+  "keywords": ["nodejs", "Queen-nezuko", "whatsapp bot", "nezuko", "multi device"],
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -29,7 +29,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "Afx-Abu;Abu-MD;https://i.imgur.com/o3WP9EK.jpeg"
+      "value": "Gᴏᴅ-Zᴇɴɪᴛꜱᴜ;Qᴜᴇᴇɴ-Nᴇᴢᴜᴋᴏ;https://graph.org/file/3879cf1910f65bd8457d7.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -49,12 +49,12 @@
     "AUDIO_DATA": {
       "description": "audio metadata",
       "required": true,
-      "value": "Abu-MD;~Jasil;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "NEZUKO-MD;ZENITSU;https://i.imgur.com/jNy5AIn.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "Jsl;Abu-MD"
+      "value": "ZENITSU;NEZUKO"
     },
     "PM_MESSAGE": {
       "description": "personal greetings for first message ",
